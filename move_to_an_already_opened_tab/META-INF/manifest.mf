@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: bg.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tvGMGBn1jd+jCWDq7DjlWg==
+SHA1-Digest: 5BsybUFuP14bD6XiKGoVST8IW6U=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OIkFEKfK8uYTNi7XQf1o3g==
+SHA1-Digest: wUnQURH4RJKJUM5Z1KeVDnwDh2U=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jJ+VepxnLqOKbB6KJ2jvkQ==
+SHA1-Digest: 8CHqRMaMl55FDgHyLxBY6JuLLCg=
+
+Name: options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9Ve/FZrfZUtr0o/T9gZDag==
+SHA1-Digest: GWYEK4+vvINtHrOD426m6fl36rc=
+
+Name: icons/disable.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o55M+G5yvV+YAkD+QLob0g==
+SHA1-Digest: PNcMZVRS/O+Tzpdz4pjmP+xr2V0=
+
+Name: icons/enable.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ytR7qve7aG608H3YcVEVPg==
+SHA1-Digest: Yb8PmVb9LX5ajC1UE2O+QOmW9z8=
+
+Name: icons/icon-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ML9rAbOrh/Fh+Gzwo4voVQ==
+SHA1-Digest: cIZsAvvUaUpW36YZMeICyYkdqR8=
+
