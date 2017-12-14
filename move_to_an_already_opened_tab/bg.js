@@ -13,7 +13,7 @@ function moveAndClose(tab_id_to_move, tab_id_to_close, active){
 
 function process(tabs, updated_tab_id, url, active){
     for(let tab of tabs){
-        if(url == tab.url && tab.id != updated_tab_id){
+        if(url == tab.url && tab.id != updated_tab_id && url != "about:blank"){
             moveAndClose(tab.id, updated_tab_id, active);
         }
     }
