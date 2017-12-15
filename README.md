@@ -1,10 +1,10 @@
 ## move_to_an_already_opened_tab_kai
-‚±‚ÌƒAƒhƒIƒ“‚Í[Pachira](https://addons.mozilla.org/ja/firefox/user/anonymous-a0bba9187b568f98732d22d51c5955a6/)‚Ì[move to an already opened tab](https://addons.mozilla.org/ja/firefox/addon/move-to-an-already-opened-tab/)ƒAƒhƒIƒ“‚ğ‰ü•Ï‚µ‚½‚à‚Ì‚Å‚·  
-ƒIƒŠƒWƒiƒ‹”Å‚Íƒsƒ“—¯‚ßƒ^ƒu‚È‚Çƒ^ƒu‚ª•¡”‘¶İ‚·‚éó‘Ô‚ÅFirefox‚ğ‹N“®‚·‚é‚Æ•s“Á’è‚Ìƒ^ƒu‚ª•Â‚¶‚é‚±‚Æ‚ª‚ ‚è‚Ü‚µ‚½  
-‚±‚ê‚ğC³‚µ‚½‰ü•Ï”Å‚Æ‚È‚è‚Ü‚·  
+ã“ã®ã‚¢ãƒ‰ã‚ªãƒ³ã¯[Pachira](https://addons.mozilla.org/ja/firefox/user/anonymous-a0bba9187b568f98732d22d51c5955a6/)æ°ã®[move to an already opened tab](https://addons.mozilla.org/ja/firefox/addon/move-to-an-already-opened-tab/)ã‚¢ãƒ‰ã‚ªãƒ³ã‚’æ”¹å¤‰ã—ãŸã‚‚ã®ã§ã™  
+ã‚ªãƒªã‚¸ãƒŠãƒ«ç‰ˆã¯ãƒ”ãƒ³ç•™ã‚ã‚¿ãƒ–ãªã©ã‚¿ãƒ–ãŒè¤‡æ•°å­˜åœ¨ã™ã‚‹çŠ¶æ…‹ã§Firefoxã‚’èµ·å‹•ã™ã‚‹ã¨ä¸ç‰¹å®šã®ã‚¿ãƒ–ãŒé–‰ã˜ã‚‹ã“ã¨ãŒã‚ã‚Šã¾ã—ãŸ  
+ã“ã‚Œã‚’ä¿®æ­£ã—ãŸæ”¹å¤‰ç‰ˆã¨ãªã‚Šã¾ã™  
 
-## XV—š—ğ
+## æ›´æ–°å±¥æ­´
 
 * v1.0.0 2017-12-15
-  - move to an already opened tab v1.0.0ƒx[ƒX
-  - Firefox‹N“®‚Éƒ^ƒu‚ª•¡”‘¶İ‚·‚é‚Æ•Â‚¶‚é‚±‚Æ‚ª‚ ‚é‚Ì‚ğC³
+  - move to an already opened tab v1.0.0ãƒ™ãƒ¼ã‚¹
+  - Firefoxèµ·å‹•æ™‚ã«ã‚¿ãƒ–ãŒè¤‡æ•°å­˜åœ¨ã™ã‚‹ã¨é–‰ã˜ã‚‹ã“ã¨ãŒã‚ã‚‹ã®ã‚’ä¿®æ­£
