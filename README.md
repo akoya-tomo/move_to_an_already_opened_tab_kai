@@ -3,6 +3,9 @@
 オリジナル版はピン留めタブなどタブが複数存在する状態でFirefoxを起動すると不特定のタブが閉じることがありました  
 これを修正した改変版となります  
 
+## インストール
+[GitHub](https://github.com/akoya-tomo/move_to_an_already_opened_tab_kai/releases/download/v1.0.0/move_to_an_already_opened_tab_kai-1.0.0-an.fx.xpi)
+
 ## 更新履歴
 
 * v1.0.0 2017-12-15
