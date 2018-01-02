@@ -2,7 +2,8 @@
 このアドオンは[Pachira](https://addons.mozilla.org/ja/firefox/user/anonymous-a0bba9187b568f98732d22d51c5955a6/)氏の[move to an already opened tab](https://addons.mozilla.org/ja/firefox/addon/move-to-an-already-opened-tab/)アドオンを改変したものです  
 Firefox起動時にタブが複数存在するとタブが閉じることがあることを修正しています  
 
-※他のKOSHIANアドオン改変版は[こちら](https://github.com/akoya-tomo/futaba_auto_reloader_K/wiki)の一覧からどうぞ
+※[Duplicate Tabs Closer](https://addons.mozilla.org/ja/firefox/addon/duplicate-tabs-closer/)アドオンが本アドオンより高機能で更に[Multi-Account Containers](https://addons.mozilla.org/ja/firefox/addon/multi-account-containers/)アドオン使用時に異なるコンテナを判別して制御できるのでおすすめです。  
+※他のKOSHIANアドオン派生版とUserscriptは[こちら](https://github.com/akoya-tomo/futaba_auto_reloader_K/wiki)の一覧からどうぞ
 
 ## 機能
 * オリジナルの機能（Move to an already opened tab）
